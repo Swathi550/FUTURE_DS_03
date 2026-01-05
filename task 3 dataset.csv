@@ -1,0 +1,25 @@
+Event_Name,Event_Type,Department,Rating,Comment
+AI Workshop,Workshop,AIML,5,Very informative and interactive session
+AI Workshop,Workshop,AIML,4,Good examples and explanations
+Cloud Computing Seminar,Seminar,CSE,3,Content was okay but a bit long
+Cloud Computing Seminar,Seminar,CSE,2,Not very engaging
+Data Science Bootcamp,Workshop,IT,5,Hands-on sessions were excellent
+Data Science Bootcamp,Workshop,IT,4,Learned many new concepts
+Cyber Security Talk,Seminar,CSE,3,Speaker was good but slides were confusing
+Cyber Security Talk,Seminar,CSE,4,Good overview of security topics
+Cultural Fest,Event,Arts,5,Enjoyed a lot and well organized
+Cultural Fest,Event,Arts,4,Fun activities and good coordination
+Placement Seminar,Seminar,EEE,2,Not very helpful for placements
+Placement Seminar,Seminar,EEE,3,Some points were useful
+ML Workshop,Workshop,AIML,5,Practical training was very useful
+ML Workshop,Workshop,AIML,4,Clear explanation of algorithms
+IoT Workshop,Workshop,ECE,4,Good hands-on experience
+IoT Workshop,Workshop,ECE,3,Could improve lab facilities
+Tech Quiz,Event,CSE,5,Very interesting and engaging
+Tech Quiz,Event,CSE,4,Well conducted
+Entrepreneurship Talk,Seminar,Management,3,Average session
+Entrepreneurship Talk,Seminar,Management,2,Expected more real examples
+Web Development Workshop,Workshop,IT,5,Very practical and easy to understand
+Web Development Workshop,Workshop,IT,4,Good pace and examples
+Robotics Demo,Event,Mech,4,Exciting demonstrations
+Robotics Demo,Event,Mech,3,Short duration
